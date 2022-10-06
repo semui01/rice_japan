@@ -4,7 +4,7 @@ The purpose of code is to demonstrate how to plot a chart from scratch by using 
 
 The data is rice production in Japan.
 
-It cludes:
+The python codes cludes:
 
 1. how to read the csv file
 2. how to check nan input in the dataframe
