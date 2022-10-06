@@ -43,7 +43,7 @@ fig.add_layout_image(
             )
 )
 
-fig.update_layout(font_size=15,title={'text':'Japan Rice plantation area in 2019(Acres)','y':0.95,'x':0.5,'xanchor':'center','yanchor':'top'},yaxis={'categoryorder':'total ascending'},paper_bgcolor='rgb(248,248,255)',
+fig.update_layout(font_size=15,title={'text':'Japan Rice plantation area in 2019(ha)','y':0.95,'x':0.5,'xanchor':'center','yanchor':'top'},yaxis={'categoryorder':'total ascending'},paper_bgcolor='rgb(248,248,255)',
     plot_bgcolor='rgb(248,248,255)')
 
 
