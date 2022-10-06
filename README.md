@@ -2,6 +2,8 @@
 
 The purpose of code is to demonstrate how to plot a chart from scratch by using plotly express. Beginner friendly.
 
+It convers many topics, data cleaning, ploting graphs to image processing, but simple enough for beginners to try and play.
+
 The data is rice production in Japan.
 
 The python codes cludes:
